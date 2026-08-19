@@ -1,4 +1,6 @@
-/** @module Login-Script */
+/**
+ * @module Login-Script
+ */
 /** 
 * Membuat variabel loginFormElement untuk tampilan form.
 * @constant {HTMLElement}
